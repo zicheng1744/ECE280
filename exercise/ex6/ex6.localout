@@ -1,0 +1,21 @@
+Tree1 is empty: 1
+Tree1 sum: 0
+Tree1 depth: 0
+Tree1: 
+Tree2 is empty: 0
+Tree2 sum: 10
+Tree2 depth: 1
+Tree2: 10
+Tree3 sum: 30
+Tree3 depth: 2
+Tree3: 5 10 15
+Tree6 sum: 28
+Tree6 depth: 3
+Tree6: 1 2 3 4 5 6 7
+Tree7 sum: 74
+Tree7 depth: 5
+Tree7: 1 2 3 4 1 2 3 4 5 6 7 6 5 10 15
+Tree4 (copy of Tree3): 5 10 15
+Tree5 (assigned from Tree2): 10
+Tree3 == Tree4: 1
+Tree2 != Tree3: 1

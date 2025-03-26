@@ -1,0 +1,19 @@
+Book ID: 1
+Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+Status: available
+Book ID: 2
+Title: To Kill a Mockingbird
+Author: Harper Lee
+Status: available
+Searching for 'The Great Gatsby'...
+1
+Searching for 'aaa'...
+Book aaa not found.
+Book The Great Gatsby is already available.
+Invalid book ID.
+Invalid book ID.
+Book ID: 1
+Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+All books are available.

@@ -1,0 +1,13 @@
+Tree 1 is empty: Yes
+Tree 2 is empty: No
+Tree 2 (in-order): 10
+Tree 3 (in-order): 5 10 15
+Tree 4 (copy of Tree 3, in-order): 5 10 15
+Tree 5 (assigned from Tree 3, in-order): 5 10 15
+Tree 3 == Tree 4: Yes
+Tree 3 != Tree 5: No
+Sum of Tree 3: 30
+Depth of Tree 3: 2
+Modified Tree 4 (in-order): 5 10 20
+Tree 3 == Tree 4: No
+All tests completed successfully!

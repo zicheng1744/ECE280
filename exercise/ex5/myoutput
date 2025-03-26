@@ -1,0 +1,48 @@
+------ repOK: 1 ------
+------ repOK: 0 ------
+------ repOK: 0 ------
+------ repOK: 0 ------
+------ repOK: 1 ------
+Book ID: 1
+Title: Book1
+Author: Author1
+Book ID: 2
+Title: Book2
+Author: Author2
+Book ID: 3
+Title: Book3
+Author: Author3
+Book ID: 4
+Title: Book4
+Author: Author4
+------ repOK: 1 ------
+------ repOK: 0 ------
+------ repOK: 0 ------
+------ repOK: 1 ------
+Book ID: 1
+Title: Book1
+Author: Author1
+Book ID: 2
+Title: Book2
+Author: Author2
+Book ID: 3
+Title: Book4
+Author: Author4
+------ repOK: 1 ------
+------ repOK: 1 ------
+Book ID: 1
+Title: Book1
+Author: Author1
+Book ID: 2
+Title: Book2
+Author: Author2
+Book ID: 3
+Title: Book4
+Author: Author4
+Book ID: 4
+Title: Book5
+Author: Author5
+Book ID: 5
+Title: Book6
+Author: Author6
+------ repOK: 1 ------

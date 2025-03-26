@@ -1,0 +1,4 @@
+total 8
+drwxr-xr-x 3 marzich marzich 4096 Sep 26 22:15 assignments
+-rw-r--r-- 1 marzich marzich    0 Sep 26 22:15 directory_info.txt
+drwxr-xr-x 3 marzich marzich 4096 Sep 26 22:15 reports
